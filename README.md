@@ -1,7 +1,7 @@
 # Go-Pentest-Scripts
 Repository created for Educational purposes and for students of Ethical Hacking and CTF players, using Golang language.
 
-WARNING: Any unethical action, he should be responsible for his actions
+WARNING: Any unethical action, the user should be responsible for his actions
 
 #Remember, with great power comes great responsibility.
 
